@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @bryceadams3
-- 👀 I’m interested in quantum computing, platform engineering, and augmented reality.
-- 🌱 I’m currently learning opentelemetry and ocean sdk.
-- 💞️ I’m looking to collaborate on quantum computing projects.
+- 👀 I’m interested in platform engineering and open source agriculture.
+- 🌱 I’m currently learning opentelemetry.
+- 💞️ I’m looking to collaborate on open agriculture projects.
 - 📫 How to reach me:
         LinkedIn: https://www.linkedin.com/in/bryceadamsp/
-        Email: bryceadams@arcanussecurity.com
+
 
 <!---
 bryceadams3/bryceadams3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
